@@ -1,4 +1,4 @@
-# DSC-UBa-members (Hacktoberfert mini-project 1)
+# DSC-UBa-members (Hacktoberfest mini-project 1)
 ### Json file with little details about the DSC UBa members
 
 First and foremost, fork this repository.
