@@ -12,5 +12,12 @@
         "position":      "Lead",   
         "language":    "Python",
         "level":    "Intermediate"  
+    },
+    {
+        "id": 2,
+        "name": "Hawawou Oumarou",
+        "position": "core member",
+        "language": "Javascript",
+        "level": "Beginner"
     }
 ]
