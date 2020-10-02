@@ -34,4 +34,11 @@
         "language": "Javascript",
         "level": "intermediate"
     }
+    {  
+        "id":  5,
+        "name":       "Hans Yufewonge",
+        "position":   "member",   
+        "language":   "HTML 5",
+        "level":   "Intermediate"
+    },
 ]
