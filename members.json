@@ -28,10 +28,17 @@
         "level": "Intermediate"
     }
     {
-        "id": 3,
+        "id": 4,
         "name": "Stephanie Mboyi",
         "position": "member",
         "language": "Javascript",
         "level": "intermediate"
-    }
+    },
+    {  
+        "id":       5,
+        "name":       "Juliana Eudoxie",
+        "position":      "member",   
+        "language":    "python",
+        "level":    "intermédiaire"
+    },
 ]
