@@ -42,6 +42,12 @@
         "level": "intermediate"
     },
     {  
+        "id": 4,
+        "name": "TIOFACK TADONKE VENUS",
+        "position": "Member",   
+        "language": "JavaScript",
+        "level": "Beginner",
+    }
         "id":       5,
         "name":       "Nuikweh Lewis",
         "position":      "Member",   
