@@ -20,13 +20,20 @@
         "language": "Javascript",
         "level": "Beginner"
     },
+    {  
+        "id":       3,
+        "name":       "Alouzeh Brandone",
+        "position":   "Core member",   
+        "language":    "Python",
+        "level":    "Intermediate"
+    },
     {
         "id": 3,
         "name": "MOHAMED GADAPHY NKWENKWAT",
         "position": "Member",
         "language": "Python",
         "level": "Intermediate"
-    }
+    },
     {
         "id": 4,
         "name": "Stephanie Mboyi",
@@ -41,4 +48,30 @@
         "language":    "python",
         "level":    "intermédiaire"
     },
+    {
+        "id": 5,
+        "name": "Njimukara Brian",
+        "position": "member",
+        "language": "Javascript",
+        "level": "intermediate"
+    {  
+        "id":       5,
+        "name":       "Nyong Godwill Nkwain",
+        "position":      "member",   
+        "language":    "PHP",
+        "level":    "Beginner"
+    {  
+        "id":       5,
+        "name":       "Lukong Anne",
+        "position":      "Member",   
+        "language":    "Python",
+        "level":    "Intermediate"
+    },
+    {
+        "id":       4,
+        "name":       "Ngumih Fien",
+        "position":      "member",   
+        "language":    "python",
+        "level":    "beginner"
+    }
 ]
