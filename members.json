@@ -43,6 +43,13 @@
     },
     {  
         "id":       5,
+        "name":       "Nuikweh Lewis",
+        "position":      "Member",   
+        "language":    "Dart/Flutter",
+        "level":    "Beginner"
+    },
+    {  
+        "id":       5,
         "name":       "Juliana Eudoxie",
         "position":      "member",   
         "language":    "python",
@@ -54,6 +61,7 @@
         "position": "member",
         "language": "Javascript",
         "level": "intermediate"
+    },
     {  
         "id":       5,
         "name":       "Nyong Godwill Nkwain",
