@@ -81,7 +81,14 @@
         "position":      "member",   
         "language":    "python",
         "level":    "beginner"
-    }
+    },
+    {  
+        "id":  5,
+        "name":       "Hans Yufewonge",
+        "position":   "member",   
+        "language":   "HTML 5",
+        "level":   "Intermediate"
+    },
     {"id":4,
         "name":       ,
         "position":"mbah stephane",   
