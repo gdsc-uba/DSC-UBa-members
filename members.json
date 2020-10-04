@@ -22,10 +22,24 @@
     },
     {  
         "id":       3,
-        "name":       “Alouzeh Brandone”,
-        "position":   “Core member”,   
-        "language":    “Python”,
-        "level":    “Intermediate”
+        "name":       "Alouzeh Brandone",
+        "position":   "Core member",   
+        "language":    "Python",
+        "level":    "Intermediate"
+    },
+    {
+        "id": 3,
+        "name": "MOHAMED GADAPHY NKWENKWAT",
+        "position": "Member",
+        "language": "Python",
+        "level": "Intermediate"
+    },
+    {
+        "id": 3,
+        "name": "Stephanie Mboyi",
+        "position": "member",
+        "language": "Javascript",
+        "level": "intermediate"
     }
 
 ]
