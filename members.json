@@ -20,25 +20,79 @@
         "language": "Javascript",
         "level": "Beginner"
     },
+    {  
+        "id":       3,
+        "name":       "Alouzeh Brandone",
+        "position":   "Core member",   
+        "language":    "Python",
+        "level":    "Intermediate"
+    },
     {
         "id": 3,
         "name": "MOHAMED GADAPHY NKWENKWAT",
         "position": "Member",
         "language": "Python",
         "level": "Intermediate"
-    }
+    },
     {
-        "id": 3,
+        "id": 4,
         "name": "Stephanie Mboyi",
         "position": "member",
         "language": "Javascript",
         "level": "intermediate"
-    }
+    },
+    {  
+        "id":       5,
+        "name":       "Nuikweh Lewis",
+        "position":      "Member",   
+        "language":    "Dart/Flutter",
+        "level":    "Beginner"
+    },
+    {  
+        "id":       5,
+        "name":       "Juliana Eudoxie",
+        "position":      "member",   
+        "language":    "python",
+        "level":    "intermédiaire"
+    },
+    {
+        "id": 5,
+        "name": "Njimukara Brian",
+        "position": "member",
+        "language": "Javascript",
+        "level": "intermediate"
+    },
+    {  
+        "id":       5,
+        "name":       "Nyong Godwill Nkwain",
+        "position":      "member",   
+        "language":    "PHP",
+        "level":    "Beginner"
+    {  
+        "id":       5,
+        "name":       "Lukong Anne",
+        "position":      "Member",   
+        "language":    "Python",
+        "level":    "Intermediate"
+    },
+    {
+        "id":       4,
+        "name":       "Ngumih Fien",
+        "position":      "member",   
+        "language":    "python",
+        "level":    "beginner"
+    },
     {  
         "id":  5,
         "name":       "Hans Yufewonge",
         "position":   "member",   
         "language":   "HTML 5",
         "level":   "Intermediate"
+    },
+    {"id":4,
+        "name":       ,
+        "position":"mbah stephane",   
+        "language": "Python",
+        "level":"intermediate"
     },
 ]
