@@ -35,12 +35,18 @@
         "level": "Intermediate"
     },
     {
-        "id": 3,
+        "id": 4,
         "name": "Stephanie Mboyi",
         "position": "member",
         "language": "Javascript",
         "level": "intermediate"
     },
+    {
+        "id": 5,
+        "name": "Njimukara Brian",
+        "position": "member",
+        "language": "Javascript",
+        "level": "intermediate"
     {  
         "id":       5,
         "name":       "Nyong Godwill Nkwain",
