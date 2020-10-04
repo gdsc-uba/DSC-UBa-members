@@ -41,6 +41,13 @@
         "language": "Javascript",
         "level": "intermediate"
     },
+    {  
+        "id":       5,
+        "name":       "Juliana Eudoxie",
+        "position":      "member",   
+        "language":    "python",
+        "level":    "intermédiaire"
+    },
     {
         "id": 5,
         "name": "Njimukara Brian",
