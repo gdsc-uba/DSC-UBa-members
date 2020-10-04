@@ -42,6 +42,13 @@
         "level": "intermediate"
     },
     {  
+        "id":       5,
+        "name":       "Lukong Anne",
+        "position":      "Member",   
+        "language":    "Python",
+        "level":    "Intermediate"
+    },
+    {
         "id":       4,
         "name":       "Ngumih Fien",
         "position":      "member",   
