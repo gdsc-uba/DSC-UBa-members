@@ -20,6 +20,13 @@
         "language": "Javascript",
         "level": "Beginner"
     },
+    {  
+        "id":       3,
+        "name":       "Alouzeh Brandone",
+        "position":   "Core member",   
+        "language":    "Python",
+        "level":    "Intermediate"
+    },
     {
         "id": 3,
         "name": "MOHAMED GADAPHY NKWENKWAT",
@@ -41,4 +48,11 @@
         "language":    "Python",
         "level":    "Intermediate"
     },
+    {
+        "id":       4,
+        "name":       "Ngumih Fien",
+        "position":      "member",   
+        "language":    "python",
+        "level":    "beginner"
+    }
 ]
