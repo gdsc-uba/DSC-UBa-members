@@ -101,6 +101,13 @@
         "language": "Python",
         "level":"intermediate"
     },
+    {  
+        "id":       6,
+        "name":       "Tanju Brunostar",
+        "position":      "member",   
+        "language":    "Java and PHP",
+        "level":    "intermediate"
+    },
     {"id":5,
         "name": "Olivian Afungchwi"      ,
         "position":"member",   
