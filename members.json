@@ -114,4 +114,11 @@
         "language": "Python",
         "level":"intermediate"
     },
+    {  
+        "id":           6,
+        "name":         "Abongwa Bonalais Amahnui",
+        "position":     "Member",   
+        "language":    "Python",
+        "level":    "Beginer to Intermediate"
+    },
 ]
