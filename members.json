@@ -114,4 +114,10 @@
         "language": "Python",
         "level":"intermediate"
     },
+    {"id":18,
+            "name": "Nfon Andrew Tatah"      ,
+            "position":"Technician",   
+            "language": "Python PHP and C",
+            "level":"intermediate"
+    },
 ]
