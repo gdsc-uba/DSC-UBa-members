@@ -115,4 +115,10 @@
         "language":    "Python, php and java",
         "level":    "intermediate"
     },
+    {"id":6,
+        "name": "Nfon Jeannoel",
+        "position":"member",   
+        "language": "Python, kotlin",
+        "level":"intermediate"
+    },
 ]
