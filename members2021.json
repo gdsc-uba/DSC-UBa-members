@@ -27,4 +27,11 @@
         "language":    "Python",
         "level":    "Intermidiate"
     },
+    {  
+        "id":       3,
+        "name":       "Ajimsimbom Bong",
+        "position":      "Member",   
+        "language":    "Javascript",
+        "level":    "Intermediate"
+    },
 ]
