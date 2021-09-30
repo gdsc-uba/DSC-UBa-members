@@ -6,11 +6,5 @@
         "language": "HTML",
         "level": " Advanced"
     },
-    {  
-        "id":       1,
-        "name": "Ajimsimbom Bong",
-        "position": "Member",   
-        "language": "Javascript",
-        "level": "Intermediate"
-    },
+    
 ]
