@@ -3,7 +3,7 @@
 
 First and foremost, fork this repository.
 
-All you have to do is add your membership details to the members.json file. A template is provided as the first input in the array. Copy and paste it underneath the last item of the array. Finally, edit what you pasted as follows:
+All you have to do is add your membership details to the members2021.json file. A template is provided as the first input in the array. Copy and paste it underneath the last item of the array. Finally, edit what you pasted as follows:
 * For the "id" value, replace null with the id value of the last item of the list plus 1 (this will be considered as your member id)
 * For the "name" value, replace "null" with your name.
 * For the "position" value, replace "null" with your membership status at DSC (Lead, Co-lead, Core Team Member, Member)
