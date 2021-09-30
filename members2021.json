@@ -7,10 +7,10 @@
         "level": " Advanced"
     },
     {  
-        "id":       null,
-        "name":       null,
-        "position":      null,   
-        "language":    null,
-        "level":    null
+        "id":       1,
+        "name": "Ajimsimbom Bong",
+        "position": "Member",   
+        "language": "Javascript",
+        "level": "Intermediate"
     },
 ]
