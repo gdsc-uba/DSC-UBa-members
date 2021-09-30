@@ -20,4 +20,11 @@
         "language":    null,
         "level":    null
     },
+    {  
+        "id":       1,
+        "name":       "Chelsea Banke",
+        "position":      "Member",   
+        "language":    "Python",
+        "level":    "Intermidiate"
+    },
 ]
