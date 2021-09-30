@@ -34,4 +34,11 @@
         "language":    "Javascript",
         "level":    "Intermediate"
     },
+     {  
+        "id":       4,
+        "name":       "Joseph",
+        "position":      "Member",   
+        "language":    "Javascript",
+        "level":    "Intermediate"
+    },
 ]
