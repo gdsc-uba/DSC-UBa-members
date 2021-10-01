@@ -75,4 +75,29 @@
         "position":  "member",   
         "language":   "Python",
         "level":    "intermediate"
+
+
+    },
+    {
+         "id":      8,
+        "name":      "Elroy Kanye",
+        "position":  "Core Team",   
+        "language":   "Rust",
+        "level":    "intermediate"
+    },
+    {
+         "id":      9,
+        "name":      "NDI Lionel",
+        "position":  "Member",   
+        "language":   "Javascript",
+        "level":    "intermediate"
+    },
+    {
+         "id":      10,
+        "name":      "Chi Karl",
+        "position":  "Member",   
+        "language":   "JavaScript",
+        "level":    "intermediate"
+    },
+
 ]
