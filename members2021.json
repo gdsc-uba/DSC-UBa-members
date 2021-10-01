@@ -75,6 +75,8 @@
         "position":  "member",   
         "language":   "Python",
         "level":    "intermediate"
+
+
     },
     {
          "id":      8,
@@ -96,5 +98,11 @@
         "position": "Co-lead",   
         "language": "Python",
         "level": "Intermediate"
-    }
-]
+    },
+    {
+         "id":      10,
+        "name":      "Chi Karl",
+        "position":  "Member",   
+        "language":   "JavaScript",
+        "level":    "intermediate"
+    },
