@@ -121,4 +121,11 @@
         "language": "Python, kotlin",
         "level":"intermediate"
     },
+     {  
+        "id":       10,
+        "name":       "yokwejuste5013",
+        "position":      "core member",   
+        "language":    "Python, php and java",
+        "level":    "intermediate"
+    },
 ]
