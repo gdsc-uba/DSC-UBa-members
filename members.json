@@ -121,4 +121,10 @@
         "language": "Python, kotlin",
         "level":"intermediate"
     },
+     {"id":7,
+        "name": "Nfon Joseph",
+        "position":"member",   
+        "language": "Java script",
+        "level":"intermediate"
+    },
 ]
