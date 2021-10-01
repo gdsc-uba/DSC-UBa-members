@@ -34,7 +34,13 @@
         "language":    "Javascript",
         "level":    "Intermediate"
     },
-
+    {  
+        "id":       4,
+        "name":       "Joseph",
+        "position":      "Member",   
+        "language":    "Javascript",
+        "level":    "Intermediate"
+    },
     {"id":4,
         "name": "Nfon Jeannoel",
         "position":"member",   
@@ -46,6 +52,6 @@
         "name":      "Clifford Randy",
         "position":  "member",   
         "language":   "PHP",
-        "level":    "Biginner"
+        "level":    "Beginner"
     },
 ]
