@@ -106,3 +106,10 @@
         "language":   "JavaScript",
         "level":    "intermediate"
     },
+    {
+        "id":       12,
+        "name":       "Ngumih Fien",
+        "position":      "member",   
+        "language":    "Python",
+        "level":    "intermediate"
+    },
