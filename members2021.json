@@ -41,14 +41,22 @@
         "language":    "Javascript",
         "level":    "Intermediate"
     },
-    {"id":4,
+    {
+        "id":4,
         "name": "Nfon Jeannoel",
         "position":"member",   
         "language": "Python, kotlin",
         "level":"intermediate"
     },
+    {
+        "id":5,
+        "name": "Ngong Marcel Yiosimbom",
+        "position":"member",   
+        "language": "Python",
+        "level":"beginner"
+     },
      {  
-        "id":      5,
+        "id":      6,
         "name":      "Clifford Randy",
         "position":  "member",   
         "language":   "PHP",
