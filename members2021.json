@@ -41,6 +41,7 @@
         "language":    "Javascript",
         "level":    "Intermediate"
     },
+
     {
         "id":4,
         "name": "Nfon Jeannoel",
@@ -107,6 +108,12 @@
         "level":    "intermediate"
     },
     {
+        "id": 11,
+        "name": "Abongwa Bonalais Amahnui",
+        "position": "Member",   
+        "language": "PYTHON",
+        "level": " INTERMEDIATE"
+    {
         "id":5,
         "name": "yokwejuste5013",
         "position":"Core member",   
@@ -127,3 +134,4 @@
         "language":   "JavaScript, java",
         "level":    "intermediate"
     },
+]
