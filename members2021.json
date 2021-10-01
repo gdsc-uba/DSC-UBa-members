@@ -92,6 +92,13 @@
         "language":   "Javascript",
         "level":    "intermediate"
     },
+     {  
+        "id": 10,
+        "name": "Lukong Anne",
+        "position": "Co-lead",   
+        "language": "Python",
+        "level": "Intermediate"
+    },
     {
          "id":      10,
         "name":      "Chi Karl",
@@ -99,5 +106,3 @@
         "language":   "JavaScript",
         "level":    "intermediate"
     },
-
-]
