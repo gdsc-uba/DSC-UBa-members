@@ -41,4 +41,11 @@
         "language": "Python, kotlin",
         "level":"intermediate"
     },
+    
+    {"id":5,
+        "name": "Ngong Marcel Yiosimbom",
+        "position":"member",   
+        "language": "Python",
+        "level":"beginner"
+    },
 ]
