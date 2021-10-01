@@ -75,12 +75,4 @@
         "position":  "member",   
         "language":   "Python",
         "level":    "intermediate"
-    },
-    {
-         "id":      8,
-        "name":      "Elroy Kanye",
-        "position":  "Core Team",   
-        "language":   "Rust",
-        "level":    "intermediate"
-    }
 ]
