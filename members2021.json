@@ -106,3 +106,10 @@
         "language":   "JavaScript",
         "level":    "intermediate"
     },
+    {
+         "id":      11,
+        "name":      "Tanjuate Brunostar",
+        "position":  "Member",   
+        "language":   "JavaScript, java",
+        "level":    "intermediate"
+    },
