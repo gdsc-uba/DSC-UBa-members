@@ -34,18 +34,31 @@
         "language":    "Javascript",
         "level":    "Intermediate"
     },
-
+    {  
+        "id":       4,
+        "name":       "Joseph",
+        "position":      "Member",   
+        "language":    "Javascript",
+        "level":    "Intermediate"
+    },
     {"id":4,
         "name": "Nfon Jeannoel",
         "position":"member",   
         "language": "Python, kotlin",
         "level":"intermediate"
     },
-        {
+    {
          "id":5,
         "name": "yokwejuste5013",
         "position":"Core member",   
         "language": "Python, java, javascript, php",
         "level":"intermediate"
+     },
+     {  
+        "id":      5,
+        "name":      "Clifford Randy",
+        "position":  "member",   
+        "language":   "PHP",
+        "level":    "Beginner"
     },
 ]
