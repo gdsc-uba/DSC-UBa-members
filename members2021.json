@@ -107,10 +107,31 @@
         "language":   "JavaScript",
         "level":    "intermediate"
     },
-        {
+    {
         "id": 11,
         "name": "Abongwa Bonalais Amahnui",
         "position": "Member",   
         "language": "PYTHON",
         "level": " INTERMEDIATE"
+    {
+        "id":5,
+        "name": "yokwejuste5013",
+        "position":"Core member",   
+        "language": "Python, java, javascript, php",
+        "level":"intermediate"
     },
+    {
+        "id":       12,
+        "name":       "Ngumih Fien",
+        "position":      "member",   
+        "language":    "Python",
+        "level":  "intermediate"
+    },
+    {
+         "id":      11,
+        "name":      "Tanjuate Brunostar",
+        "position":  "Member",   
+        "language":   "JavaScript, java",
+        "level":    "intermediate"
+    },
+]
