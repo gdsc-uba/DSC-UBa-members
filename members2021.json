@@ -107,6 +107,13 @@
         "level":    "intermediate"
     },
     {
+        "id":       12,
+        "name":       "Ngumih Fien",
+        "position":      "member",   
+        "language":    "Python",
+        "level":  "intermediate"
+    },
+    {
          "id":      11,
         "name":      "Tanjuate Brunostar",
         "position":  "Member",   
