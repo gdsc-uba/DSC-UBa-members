@@ -69,4 +69,10 @@
         "language":   "PHP",
         "level":    "Beginner"
     },
+    {
+         "id":      7,
+        "name":      "Nfuh Anderson",
+        "position":  "member",   
+        "language":   "Python",
+        "level":    "intermediate"
 ]
