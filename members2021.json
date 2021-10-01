@@ -82,5 +82,12 @@
         "position":  "Core Team",   
         "language":   "Rust",
         "level":    "intermediate"
+    },
+    {
+         "id":      9,
+        "name":      "NDI Lionel",
+        "position":  "Member",   
+        "language":   "Javascript",
+        "level":    "intermediate"
     }
 ]
