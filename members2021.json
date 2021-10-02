@@ -134,4 +134,11 @@
         "language":   "JavaScript, java",
         "level":    "intermediate"
     },
+      {
+         "id":      13,
+        "name":      "Nuikweh Lewis",
+        "position":  "Core Member",   
+        "language":   "Dart/Flutter",
+        "level":    "intermediate"
+    },
 ]
