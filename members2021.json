@@ -113,6 +113,7 @@
         "position": "Member",   
         "language": "PYTHON",
         "level": " INTERMEDIATE"
+    },
     {
         "id":5,
         "name": "yokwejuste5013",
@@ -139,6 +140,13 @@
         "name":      "Nuikweh Lewis",
         "position":  "Core Member",   
         "language":   "Dart/Flutter",
+        "level":    "intermediate"
+    },
+    {
+         "id":      14,
+        "name":      "Dejon Fah Joël Xavier",
+        "position":  "Member",   
+        "language":   "Python, Django, Dart/Flutter",
         "level":    "intermediate"
     },
 ]
