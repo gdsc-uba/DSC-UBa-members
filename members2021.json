@@ -149,4 +149,11 @@
         "language":   "Python, Django, Dart/Flutter",
         "level":    "intermediate"
     },
+    {
+        "id":15,
+        "name": "Nfon Andrew Tatah"      ,
+        "position":"Technician",   
+        "language": "Python PHP and C",
+        "level":"intermediate"
+    },
 ]
