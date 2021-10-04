@@ -149,4 +149,11 @@
         "language":   "Python, Django, Dart/Flutter",
         "level":    "intermediate"
     },
+    {  
+        "id": 15,
+        "name": "Nkweti Awa",
+        "position": "Member",   
+        "language": "JavaScript",
+        "level": " Advanced"
+    },
 ]
