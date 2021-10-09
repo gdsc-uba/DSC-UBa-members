@@ -151,13 +151,20 @@
     },
     {  
         "id": 15,
+        "name": "Alain Kimbu",
+        "position": "Member",   
+        "language": "JavaScript",
+        "level": " Intermediate"
+    },
+  {
+        "id": 16,
         "name": "Nkweti Awa",
         "position": "Member",   
         "language": "JavaScript",
         "level": " Advanced"
     },
     {
-        "id":15,
+        "id":17,
         "name": "Nfon Andrew Tatah"      ,
         "position":"Technician",   
         "language": "Python PHP and C",
