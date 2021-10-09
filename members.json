@@ -1,10 +1,10 @@
 [
     {  
-        "id":       null,
-        "name":       null,
-        "position":      null,   
-        "language":    null,
-        "level":    null
+        "id":       8,
+        "name":       "Nfuh Anderson,
+        "position":      "Member",   
+        "language":    "Python",
+        "level":    "Intermediate"
     },
     {  
         "id":       1, 
@@ -121,11 +121,10 @@
         "language": "Python, kotlin",
         "level":"intermediate"
     },
-     {  
-        "id":       10,
-        "name":       "yokwejuste5013",
-        "position":      "core member",   
-        "language":    "Python, php and java",
-        "level":    "intermediate"
+    {"id":7,
+        "name": "Nsom Emmanuel",
+        "position":"member",   
+        "language": "PHP,Javascript",
+        "level":"intermediate"
     },
 ]

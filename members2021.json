@@ -34,11 +34,119 @@
         "language":    "Javascript",
         "level":    "Intermediate"
     },
+    {  
+        "id":       4,
+        "name":       "Joseph",
+        "position":      "Member",   
+        "language":    "Javascript",
+        "level":    "Intermediate"
+    },
 
-    {"id":4,
+    {
+        "id":4,
         "name": "Nfon Jeannoel",
         "position":"member",   
         "language": "Python, kotlin",
         "level":"intermediate"
+    },
+    {
+        "id":5,
+        "name": "yokwejuste5013",
+        "position":"Core member",   
+        "language": "Python, java, javascript, php",
+        "level":"intermediate"
+    },
+    {
+        "id":5,
+        "name": "Ngong Marcel Yiosimbom",
+        "position":"member",   
+        "language": "Python",
+        "level":"beginner"
+     },
+     {  
+        "id":      6,
+        "name":      "Clifford Randy",
+        "position":  "member",   
+        "language":   "PHP",
+        "level":    "Beginner"
+    },
+    {
+         "id":      7,
+        "name":      "Nfuh Anderson",
+        "position":  "member",   
+        "language":   "Python",
+        "level":    "intermediate"
+
+
+    },
+    {
+         "id":      8,
+        "name":      "Elroy Kanye",
+        "position":  "Core Team",   
+        "language":   "Rust",
+        "level":    "intermediate"
+    },
+    {
+         "id":      9,
+        "name":      "NDI Lionel",
+        "position":  "Member",   
+        "language":   "Javascript",
+        "level":    "intermediate"
+    },
+     {  
+        "id": 10,
+        "name": "Lukong Anne",
+        "position": "Co-lead",   
+        "language": "Python",
+        "level": "Intermediate"
+    },
+    {
+         "id":      10,
+        "name":      "Chi Karl",
+        "position":  "Member",   
+        "language":   "JavaScript",
+        "level":    "intermediate"
+    },
+    {
+        "id": 11,
+        "name": "Abongwa Bonalais Amahnui",
+        "position": "Member",   
+        "language": "PYTHON",
+        "level": " INTERMEDIATE"
+    },
+    {
+        "id":5,
+        "name": "yokwejuste5013",
+        "position":"Core member",   
+        "language": "Python, java, javascript, php",
+        "level":"intermediate"
+    },
+    {
+        "id":       12,
+        "name":       "Ngumih Fien",
+        "position":      "member",   
+        "language":    "Python",
+        "level":  "intermediate"
+    },
+    {
+         "id":      11,
+        "name":      "Tanjuate Brunostar",
+        "position":  "Member",   
+        "language":   "JavaScript, java",
+        "level":    "intermediate"
+    },
+      {
+         "id":      13,
+        "name":      "Nuikweh Lewis",
+        "position":  "Core Member",   
+        "language":   "Dart/Flutter",
+        "level":    "intermediate"
+    },
+    {
+         "id":      14,
+        "name":      "Dejon Fah Joël Xavier",
+        "position":  "Member",   
+        "language":   "Python, Django, Dart/Flutter",
+        "level":    "intermediate"
     },
 ]
