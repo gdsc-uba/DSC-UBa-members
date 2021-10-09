@@ -156,4 +156,18 @@
         "language": "JavaScript",
         "level": " Intermediate"
     },
+  {
+        "id": 16,
+        "name": "Nkweti Awa",
+        "position": "Member",   
+        "language": "JavaScript",
+        "level": " Advanced"
+    },
+    {
+        "id":17,
+        "name": "Nfon Andrew Tatah"      ,
+        "position":"Technician",   
+        "language": "Python PHP and C",
+        "level":"intermediate"
+    },
 ]
