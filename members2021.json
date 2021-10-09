@@ -156,4 +156,11 @@
         "language": "JavaScript",
         "level": " Advanced"
     },
+    {
+        "id":15,
+        "name": "Nfon Andrew Tatah"      ,
+        "position":"Technician",   
+        "language": "Python PHP and C",
+        "level":"intermediate"
+    },
 ]
